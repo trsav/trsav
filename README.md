@@ -1,5 +1,6 @@
-# Tom Savage - PhD Candidate
-## Centre for Process Systems Engineering, Imperial College London
+# Tom Savage - PhD Candidate<sup>1,2</sup>
+1. **Centre for Process Systems Engineering, Imperial College London**
+2. **The Alan Turing Institute**
 
 - [Twitter](https://twitter.com/Savage_Tom)
 - [Personal Website](https://sav.phd)
