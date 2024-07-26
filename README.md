@@ -1,6 +1,4 @@
 # Tom Savage - PhD Candidate
-- Centre for Process Systems Engineering, Imperial College London. Formerly @ The Alan Turing Institute.
----
 ## Research themes
 - Machine Learning for Discovery
 - Human-Algorithm/AI Collaboration
