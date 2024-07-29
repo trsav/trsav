@@ -1,10 +1,9 @@
-# Tom Savage - PhD Candidate
-## Research themes
-- Machine Learning for Discovery
-- Human-Algorithm/AI Collaboration
-- Data-driven Optimisation
----
-## Links
+**Tom Savage** 
+
+**Machine Learning for Discovery** + 
+**Human-Algorithm/AI Collaboration** + 
+**Data-driven Optimisation**
+
 - [Twitter](https://twitter.com/Savage_Tom)
 - [Personal Website](https://sav.phd)
 - [Imperial College Website](https://www.imperial.ac.uk/people/t.savage)
