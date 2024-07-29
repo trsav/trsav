@@ -1,5 +1,3 @@
-**Tom Savage** 
-
 **Machine Learning for Discovery** + 
 **Human-Algorithm/AI Collaboration** + 
 **Data-driven Optimisation**
